@@ -1,0 +1,3 @@
+[submodule "output"]
+	path = output
+	url = https://github.com/taihao666/taihao666.github.io.git
